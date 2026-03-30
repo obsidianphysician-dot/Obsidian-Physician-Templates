@@ -4,7 +4,7 @@ A collection of templates I use as a medical student to think clearly, learn eff
 
 ## What’s included
 - Basic Terms template (includes frontmatter for properties) 
-- Lecture Notes template
+- [Lecture Notes](Lecture-Notes.md) template
 - PICO / evidence-based medicine template
 - Pathology template 
 
