@@ -1,4 +1,3 @@
-# Term
 ---
 tags: 
 aliases: 
