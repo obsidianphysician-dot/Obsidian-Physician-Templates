@@ -3,7 +3,7 @@
 A collection of templates I use as a medical student to think clearly, learn efficiently, and improve patient care.
 
 ## What’s included
-- Basic Terms template (includes frontmatter for properties) 
+- [Basic Terms](Templates/Basic-Terms.md) template (includes frontmatter for properties) 
 - Lecture Notes template
 - PICO / evidence-based medicine template
 - Pathology template
