@@ -1,6 +1,6 @@
 ---
-Links:
 tags:
+Links: 
 Date: {{time}} {{date}}
 ---
 # Study Notes
