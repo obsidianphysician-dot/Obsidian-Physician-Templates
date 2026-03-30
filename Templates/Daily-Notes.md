@@ -1,5 +1,4 @@
 ---
-Today's Focus:
 Links:
 tags:
 Date: {{time}} {{date}}
