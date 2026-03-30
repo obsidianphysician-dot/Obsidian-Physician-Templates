@@ -1,4 +1,4 @@
-# Lecture Notes
+
 ---
 Lecturer:
 tags:
