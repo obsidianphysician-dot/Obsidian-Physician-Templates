@@ -1,4 +1,3 @@
-Pathology Template
 ---
 tags:
 Time: "{{date}} {{time}}"
