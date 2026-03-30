@@ -6,7 +6,8 @@ A collection of templates I use as a medical student to think clearly, learn eff
 - Basic Terms template (includes frontmatter for properties) 
 - Lecture Notes template
 - PICO / evidence-based medicine template
-- Pathology template 
+- Pathology template
+- Daily Notes template (ideal for clinical days)
 
 ## How to use
 1. Download the templates
