@@ -14,6 +14,11 @@ A collection of templates I use as a medical student to think clearly, learn eff
 2. Drop them into your Obsidian Templates folder
 3. Customize them to fit your workflow
 
+#### Alternatively
+1. Copy code
+2. Paste into obsidian note
+3. Move note into "Templates" folder
+
 ## Why I made this
 Medical training is overwhelming. These templates are part of how I structure thinking, not just information.
 
