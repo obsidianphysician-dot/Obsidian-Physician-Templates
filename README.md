@@ -18,5 +18,6 @@ Medical training is overwhelming. These templates are part of how I structure th
 
 ## Support
 If you found these templates helpful, you can support my work here:  
-[Read more on Obsidian Physician Substack] (substack.com/@obsidianphysician)
+[Read more on Obsidian Physician Substack](substack.com/@obsidianphysician)
+
 [Buy me a coffee](buymeacoffee.com/obsidianphysician)
